@@ -1,4 +1,4 @@
-**Output the number of bytes occupied in the stack from N, if memory cleanup is used.**
+**Output the number of bytes occupied in the stack from N, if memory cleanup is used.**<br>
 These are small reflections on how and where data is written when the recursive algorithm is running.
 
 - **Recursive_Algorithm_Program_ALL** - is a recursive algorithm, and my thoughts on it;
@@ -6,7 +6,7 @@ These are small reflections on how and where data is written when the recursive 
 
 //-------------------------------------------------------------------------------------------------------
 
-**Вывод количества байт занимаемое в стеке от N, в случае если используется очистка памяти.**
+**Вывод количества байт занимаемое в стеке от N, в случае если используется очистка памяти.**<br>
 Это небольщие размышления о том как и куда записываются данные при работе рекурсивного алгоритма.
 
 - **Recursiv_Algorithm_Program_ALL** - рекурсивный алгоритм, и мои раздумия над ним;
