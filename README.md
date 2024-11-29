@@ -1,11 +1,11 @@
 # Algorithms
 ## Algorithms and data structures / Programs
 
-**Algorithms and data structures.**
-Programs based on algorithms.
-Here are the programs that I wrote while studying algorithms.
-_Perhaps they will be useful to someone._
-I tried to explain in sufficient detail how they work.
+**Algorithms and data structures.**<br>
+Programs based on algorithms.<br>
+Here are the programs that I wrote while studying algorithms.<br>
+_Perhaps they will be useful to someone._<br>
+I tried to explain in sufficient detail how they work.<br>
 
 //-------------------------------------------------------------------------------------------------------
 
@@ -16,11 +16,11 @@ I tried to explain in sufficient detail how they work.
 
 //-------------------------------------------------------------------------------------------------------
 
-**Алгоритмы и структуры данных.**
-Программы по алгоритмам.
-Здесь приведены, программы которые я написал за время изучения алгоритмов.
-_Возможно кому-то они будут полезны._
-Я попытался достаточно подробно объяснить, как они работают.
+**Алгоритмы и структуры данных.**<br>
+Программы по алгоритмам.<br>
+Здесь приведены, программы которые я написал за время изучения алгоритмов.<br>
+_Возможно кому-то они будут полезны._<br>
+Я попытался достаточно подробно объяснить, как они работают.<br>
 
 //-------------------------------------------------------------------------------------------------------
 
