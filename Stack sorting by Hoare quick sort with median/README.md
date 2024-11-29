@@ -1,4 +1,5 @@
-**The program data is a quick stack sort, using the Hoare quick sort method. **
+
+**The program data is a quick stack sort, using the Hoare quick sort method.**
 - **Steck_Sort** - is the first version of stack sorting;
 - **Al_Sort_Steck_Xoar_S_Pivot_MK1** - is the first full-fledged quick sort using the Hoare method;
 - **Al_Sort_Steck_Xoar_S_Pivot_MK2** - is the final version of the stack quick sort, using the Hoare quick sort method;
