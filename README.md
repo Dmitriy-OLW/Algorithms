@@ -10,8 +10,8 @@ I tried to explain in sufficient detail how they work.<br>
 //-------------------------------------------------------------------------------------------------------
 
 **The following algorithms are presented here:**
-- Stack sorting by Hoare quick sort.
-- Evaluation of the spatial complexity of a recursive program
+- Stack sorting by Hoare quick sort with median;
+- Evaluation of the spatial complexity of a recursive program;
 - A program for searching all cycles by a depth-first search on a digraph. The graph is implemented by an abstract data type. Graph representation: A list of arcs.
 
 //-------------------------------------------------------------------------------------------------------
@@ -25,6 +25,6 @@ _Возможно кому-то они будут полезны._<br>
 //-------------------------------------------------------------------------------------------------------
 
 **Здесь представлены следующие алгоритмы:**
-- Сортировка стека быстрой сортировкой Хоара.
-- Оценка пространственной трудоемкости рекурсивной программы
+- Сортировка стека быстрой сортировкой Хоара с медианой точкой;
+- Оценка пространственной трудоемкости рекурсивной программы;
 -  Программа поиска всех циклов методом обхода в глубину на орграфе. Граф реализован абстрактным типом данных. Представление графа: Список дуг.
