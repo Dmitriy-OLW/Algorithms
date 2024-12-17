@@ -13,7 +13,7 @@ I tried to explain in sufficient detail how they work.<br>
 - Stack sorting by Hoare quick sort with median;
 - Evaluation of the spatial complexity of a recursive program;
 - A program for searching all cycles by a depth-first search on a digraph. The graph is implemented by an abstract data type. Graph representation: A list of arcs;
-- Optimal binary search tree.
+- The optimal binary search tree. The tree is implemented by an abstract data type. Methods for working with a binary tree are implemented.
 
 //-------------------------------------------------------------------------------------------------------
 
@@ -28,5 +28,5 @@ _Возможно кому-то они будут полезны._<br>
 **Здесь представлены следующие алгоритмы:**
 - Сортировка стека быстрой сортировкой Хоара с медианой точкой;
 - Оценка пространственной трудоемкости рекурсивной программы;
--  Программа поиска всех циклов методом обхода в глубину на орграфе. Граф реализован абстрактным типом данных. Представление графа: Список дуг;
--  Оптимальное дерево двоичного поиска.
+- Программа поиска всех циклов методом обхода в глубину на орграфе. Граф реализован абстрактным типом данных. Представление графа: Список дуг;
+- Оптимальное дерево двоичного поиска. Дерево реализован абстрактным типом данных. Реализованы методы для работы с бинарным деревом.
